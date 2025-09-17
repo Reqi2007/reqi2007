@@ -5,7 +5,7 @@ Instructions: Upload this file as README.md in a repository named exactly like y
 -->
 
 <p align="center">
-  <img src="https://images5.alphacoders.com/896/896029.png" alt="banner" width="100%" />
+  <img src="Kafuu.png" alt="banner" width="100%" />
 </p>
 
 # Hi, I'm Reqi 👋 (reqi2007)
