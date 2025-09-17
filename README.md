@@ -1,16 +1,49 @@
-## Hi there 👋
-
 <!--
-**Reqi2007/reqi2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+File: reqi2007.md
+Purpose: GitHub profile README-style markdown for user 'reqi2007'.
+Instructions: Upload this file as README.md in a repository named exactly like your GitHub username to show on your profile page.
 -->
+
+<p align="center">
+  <img src="https://images5.alphacoders.com/896/896029.png" alt="banner" width="100%" />
+</p>
+
+# Hi, I'm Reqi 👋 (reqi2007)
+
+_Selamat datang di profil GitHub saya! Saya seorang developer yang suka membuat aplikasi web, memperbaiki bug, dan belajar teknologi baru setiap hari._
+
+---
+
+## 🔭 Tentang Saya
+- 🔧 Fokus: Web development (Laravel, PHP, JavaScript, HTML, CSS)
+- 🎓 Sedang belajar dan mengerjakan proyek training management system untuk PKL
+- 🧩 Hobi: Scroll fesnuk dan mancing perkara
+
+## 💻 Stack & Tools
+- **Bahasa & Frameworks:** PHP (Laravel), JavaScript, TypeScript, HTML, CSS, Tailwind
+- **Database:** MySQL, SQLite
+- **Tools:** Git, Docker, Composer, Node.js, npm
+- **Lainnya:** GitHub Actions, REST API, Bootstrap
+
+## 🚀 Proyek Pilihan
+- **Training Project** — Aplikasi manajemen training (Laravel). [Repo utama](https://github.com/Yusril0956/Training-Project)
+- **Project 2** — Belum ada.
+
+> _Ingin melihat semua proyek saya?_ cek tab **Repositories** di profil saya.
+
+## 📊 GitHub Stats
+<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=reqi2007&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+## 📝 Blog & Pengetahuan
+Saya suka menulis catatan singkat tentang masalah yang saya temui dan solusinya. Kalau tertarik, saya bisa bagikan beberapa artikel.
+
+## 📫 Kontak
+- Email: `reqi@gmail.com`
+
+---
+
+Terima kasih sudah mampir — mari kolaborasi! 💬
+
