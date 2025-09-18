@@ -1,8 +1,4 @@
-<!--
-File: reqi2007.md
-Purpose: GitHub profile README-style markdown for user 'reqi2007'.
-Instructions: Upload this file as README.md in a repository named exactly like your GitHub username to show on your profile page.
--->
+
 
 <p align="center">
   <img src="Kafuu.png" alt="banner" width="100%" />
