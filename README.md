@@ -46,3 +46,4 @@ Terima kasih sudah mampir — mari kolaborasi! 💬
 ---
 
 19-09-2025
+[![Svgl](https://svgl-badge.vercel.app/api/Design/Blender?theme=light)](https://svgl.app)
