@@ -16,10 +16,14 @@ _Selamat datang di profil GitHub saya! Saya seorang developer yang suka membuat 
 - 🧩 Hobi: Scroll fesnuk dan mancing perkara
 
 ## 💻 Stack & Tools
-- **Bahasa & Frameworks:** ![Svgl](https://svgl-badge.vercel.app/api/Language/Php?theme=light) ![Svgl](https://svgl-badge.vercel.app/api/Framework/Laravel?theme=light), ![Svgl](https://svgl-badge.vercel.app/api/Language/JavaScript?theme=light), ![Svgl](https://svgl-badge.vercel.app/api/Language/TypeScript?theme=light), ![Svgl](https://svgl-badge.vercel.app/api/Language/HTML5?theme=light), ![Svgl](https://svgl-badge.vercel.app/api/Language/CSS?theme=light), ![Svgl](https://svgl-badge.vercel.app/api/Framework/Tailwind%20CSS?theme=light)
-- **Database:** ![Svgl](https://svgl-badge.vercel.app/api/Database/MySQL?theme=light) ![Svgl](https://svgl-badge.vercel.app/api/Database/SQLite?theme=light)
-- **Tools:** Composer, ![Svgl](https://svgl-badge.vercel.app/api/Software/Git?theme=light) ![Svgl](https://svgl-badge.vercel.app/api/Software/Docker?theme=light) ![Svgl](https://svgl-badge.vercel.app/api/Library/Node.js?theme=light) ![Svgl](https://svgl-badge.vercel.app/api/Software/NPM?theme=light) 
-- **Lainnya:** GitHub Actions, REST API, ![Svgl](https://svgl-badge.vercel.app/api/Framework/Bootstrap?theme=light)
+- **Bahasa & Frameworks:**
+  ![Svgl](https://svgl-badge.vercel.app/api/Language/Php?theme=light) ![Svgl](https://svgl-badge.vercel.app/api/Framework/Laravel?theme=light), ![Svgl](https://svgl-badge.vercel.app/api/Language/JavaScript?theme=light), ![Svgl](https://svgl-badge.vercel.app/api/Language/TypeScript?theme=light), ![Svgl](https://svgl-badge.vercel.app/api/Language/HTML5?theme=light), ![Svgl](https://svgl-badge.vercel.app/api/Language/CSS?theme=light), ![Svgl](https://svgl-badge.vercel.app/api/Framework/Tailwind%20CSS?theme=light)
+- **Database:**
+  ![Svgl](https://svgl-badge.vercel.app/api/Database/MySQL?theme=light) ![Svgl](https://svgl-badge.vercel.app/api/Database/SQLite?theme=light)
+- **Tools:**
+  Composer, ![Svgl](https://svgl-badge.vercel.app/api/Software/Git?theme=light) ![Svgl](https://svgl-badge.vercel.app/api/Software/Docker?theme=light) ![Svgl](https://svgl-badge.vercel.app/api/Library/Node.js?theme=light) ![Svgl](https://svgl-badge.vercel.app/api/Software/NPM?theme=light) 
+- **Lainnya:**
+  GitHub Actions, REST API, ![Svgl](https://svgl-badge.vercel.app/api/Framework/Bootstrap?theme=light)
 
 ## 🚀 Proyek Pilihan
 - **Training Project** — Aplikasi manajemen training (Laravel). [Repo utama](https://github.com/Yusril0956/Training-Project)
