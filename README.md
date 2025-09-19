@@ -16,7 +16,7 @@ _Selamat datang di profil GitHub saya! Saya seorang developer yang suka membuat 
 - 🧩 Hobi: Scroll fesnuk dan mancing perkara
 
 ## 💻 Stack & Tools
-- **Bahasa & Frameworks:** PHP (Laravel), JavaScript, TypeScript, HTML, CSS, Tailwind
+- **Bahasa & Frameworks:** [![Svgl](https://svgl-badge.vercel.app/api/Language/Php?theme=light)] [![Svgl](https://svgl-badge.vercel.app/api/Framework/Laravel?theme=light)], JavaScript, TypeScript, HTML, CSS, Tailwind
 - **Database:** MySQL, SQLite
 - **Tools:** Git, Docker, Composer, Node.js, npm
 - **Lainnya:** GitHub Actions, REST API, Bootstrap
@@ -46,4 +46,3 @@ Terima kasih sudah mampir — mari kolaborasi! 💬
 ---
 
 19-09-2025
-[![Svgl](https://svgl-badge.vercel.app/api/Design/Blender?theme=light)](https://svgl.app)
