@@ -11,7 +11,7 @@ _Selamat datang di profil GitHub saya! Saya seorang developer yang suka membuat 
 ---
 
 ## 🔭 Tentang Saya
-- 🔧 Fokus: Web development (Laravel, PHP, JavaScript, HTML, CSS)
+- 🔧 Fokus: Web development (![Laravel](https://img.shields.io/badge/Framework-Laravel-red?logo=laravel), ![PHP](https://img.shields.io/badge/Backend-PHP-777BB4?logo=php), ![JavaScript](https://img.shields.io/badge/Logic-JavaScript-yellow?logo=javascript), ![HTML5](https://img.shields.io/badge/Code-HTML5-orange?logo=html5), ![CSS3](https://img.shields.io/badge/Style-CSS3-blue?logo=css3))
 - 🎓 Sedang belajar dan mengerjakan proyek training management system untuk PKL
 - 🧩 Hobi: Scroll fesnuk dan mancing perkara
 
