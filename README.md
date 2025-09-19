@@ -45,7 +45,7 @@ _Selamat datang di profil GitHub saya! Saya seorang developer yang suka membuat 
 Saya suka menulis catatan singkat tentang masalah yang saya temui dan solusinya. Kalau tertarik, saya bisa bagikan beberapa artikel.
 
 ## 📫 Kontak
-- Email: `reqi@gmail.com`
+- Email: `reqi2007@gmail.com`
 
 ---
 
