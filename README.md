@@ -75,3 +75,7 @@ Mari terhubung dan berkolaborasi!
 ---
 
 *Terakhir online: 30 September 2025*
+
+<p align="center">
+  <img src="RikkaGif.gif" alt="banner" width="50%" />
+</p>
