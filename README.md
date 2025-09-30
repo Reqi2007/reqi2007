@@ -1,56 +1,77 @@
-
-
 <p align="center">
-  <img src="Kafuu.png" alt="banner" width="100%" />
+  <img src="Kafuu.png" alt="banner" width="100%" />
 </p>
 
-# Hi, I'm Reqi 👋 (reqi2007)
+# Hai, Saya Reqi 👋 (reqi2007)
 
-_Selamat datang di profil GitHub saya! Saya seorang developer yang suka membuat aplikasi web, memperbaiki bug, dan belajar teknologi baru setiap hari._
+**Selamat datang di profil GitHub saya!** Saya seorang **Web Developer** yang bersemangat dalam membuat aplikasi web yang efisien, memperbaiki *bug*, dan selalu antusias mempelajari teknologi baru.
 
 ---
 
-## 🔭 Tentang Saya
-- 🔧 Fokus: Web development ![Laravel](https://img.shields.io/badge/Framework-Laravel-red?logo=laravel), ![PHP](https://img.shields.io/badge/Backend-PHP-777BB4?logo=php), ![JavaScript](https://img.shields.io/badge/Logic-JavaScript-yellow?logo=javascript), ![HTML5](https://img.shields.io/badge/Code-HTML5-orange?logo=html5), ![CSS3](https://img.shields.io/badge/Style-CSS3-blue?logo=css3)
-- 🎓 Sedang belajar dan mengerjakan proyek training management system untuk PKL
-- 🧩 Hobi: Scroll fesnuk dan mancing perkara
+## 🚀 Tentang Saya
+
+* 🛠️ **Fokus Utama:** Pengembangan Web (**Backend** dengan PHP/Laravel & **Frontend** dengan JavaScript/HTML/CSS).
+* 📚 **Proyek Saat Ini:** Sedang mengembangkan aplikasi **Training Management System** untuk proyek PKL.
+* 💡 **Motto:** Belajar dan berkarya setiap hari.
+* 🕹️ **Hobi:** Mengamati tren di media sosial dan mencari tantangan baru (mancing perkara).
+
+---
 
 ## 💻 Stack & Tools
-- **Bahasa & Frameworks:**
-  
-  ![Svgl](https://svgl-badge.vercel.app/api/Language/Php?theme=light) ![Svgl](https://svgl-badge.vercel.app/api/Framework/Laravel?theme=light), ![Svgl](https://svgl-badge.vercel.app/api/Language/JavaScript?theme=light), ![Svgl](https://svgl-badge.vercel.app/api/Language/TypeScript?theme=light), ![Svgl](https://svgl-badge.vercel.app/api/Language/HTML5?theme=light), ![Svgl](https://svgl-badge.vercel.app/api/Language/CSS?theme=light), ![Svgl](https://svgl-badge.vercel.app/api/Framework/Tailwind%20CSS?theme=light)
-- **Database:**
-  
-  ![Svgl](https://svgl-badge.vercel.app/api/Database/MySQL?theme=light) ![Svgl](https://svgl-badge.vercel.app/api/Database/SQLite?theme=light)
-- **Tools:**
-  
-  Composer, ![Svgl](https://svgl-badge.vercel.app/api/Software/Git?theme=light) ![Svgl](https://svgl-badge.vercel.app/api/Software/Docker?theme=light) ![Svgl](https://svgl-badge.vercel.app/api/Library/Node.js?theme=light) ![Svgl](https://svgl-badge.vercel.app/api/Software/NPM?theme=light) 
-- **Lainnya:**
-  
-  GitHub Actions, REST API, ![Svgl](https://svgl-badge.vercel.app/api/Framework/Bootstrap?theme=light)
 
-## 🚀 Proyek Pilihan
-- **Training Project** — Aplikasi manajemen training (Laravel). [Repo utama](https://github.com/Yusril0956/Training-Project)
-- **Project 2** — Belum ada.
+Berikut adalah teknologi dan *tool* yang sering saya gunakan:
 
-> _Ingin melihat semua proyek saya?_ cek tab **Repositories** di profil saya.
+### Bahasa & Frameworks
 
-## 📊 GitHub Stats
-<br/>
+| Kategori | Teknologi |
+| :--- | :--- |
+| **Backend** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
+| **Frontend** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Markup & Style** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Styling Framework** | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+
+### Database & Tools
+
+| Kategori | Tool |
+| :--- | :--- |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Lainnya** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+
+---
+
+## 🌟 Proyek Pilihan
+
+| Nama Proyek | Deskripsi Singkat | Teknologi Utama | Repositori |
+| :--- | :--- | :--- | :--- |
+| **Training Management System** | Aplikasi manajemen pelatihan (proyek PKL). | Laravel, MySQL | [Lihat Repo](https://github.com/Yusril0956/Training-Project) |
+| **Project 2** | *[Sedang dalam perencanaan/pengembangan]* | *[Akan diisi]* | *[Akan diisi]* |
+
+> Ingin melihat semua proyek yang saya kerjakan? Silakan kunjungi tab **Repositories** di profil ini.
+
+---
+
+## 📊 Statistik GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reqi2007&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=reqi2007&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats Reqi2007" />
 </p>
 
+---
+
 ## 📝 Blog & Pengetahuan
-Saya suka menulis catatan singkat tentang masalah yang saya temui dan solusinya. Kalau tertarik, saya bisa bagikan beberapa artikel.
 
-## 📫 Kontak
-- Email: `reqi2007@gmail.com`
+Saya sering mendokumentasikan masalah teknis dan solusinya dalam catatan singkat. Jika ada topik tertentu yang menarik, jangan ragu untuk bertanya!
 
 ---
 
-Terima kasih sudah mampir — mari kolaborasi! 💬
+## 📫 Hubungi Saya
+
+Mari terhubung dan berkolaborasi!
+
+* **Email:** `reqi2007@gmail.com`
+* **GitHub:** **[reqi2007](https://github.com/reqi2007)**
 
 ---
 
-30-09-2025
+*Diperbarui pada: 30 September 2025*
