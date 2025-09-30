@@ -74,4 +74,4 @@ Mari terhubung dan berkolaborasi!
 
 ---
 
-*Diperbarui pada: 30 September 2025*
+*Terakhir online: 30 September 2025*
