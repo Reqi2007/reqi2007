@@ -53,4 +53,4 @@ Terima kasih sudah mampir — mari kolaborasi! 💬
 
 ---
 
-29-09-2025
+30-09-2025
