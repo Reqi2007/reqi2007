@@ -75,7 +75,7 @@ Mari terhubung dan berkolaborasi!
 ---
 
 <p align="center">
-  <i>Terakhir online: 10 Oktober 2025</i>  
+  <i>Terakhir online: 13 Oktober 2025</i>  
 </p>
 
 <p align="center">
