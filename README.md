@@ -79,5 +79,9 @@ Mari terhubung dan berkolaborasi!
 </p>
 
 <p align="center">
+  <i>Sedang mengerjakan Projekan dan laporan</i>  
+</p>
+
+<p align="center">
   <img src="RikkaGif.gif" alt="banner" width="200px" />
 </p>
