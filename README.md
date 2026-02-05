@@ -12,9 +12,9 @@ Saya seorang **Web Developer** yang bersemangat dalam membuat aplikasi web yang 
 ## 🚀 Tentang Saya
 
 - 🛠️ **Fokus Utama:** Pengembangan Web (**Backend** dengan PHP/Laravel & **Frontend** dengan JavaScript/HTML/CSS).  
-- 📚 **Proyek Saat Ini:** Sedang mengembangkan aplikasi **Training Management System** untuk proyek PKL.  
-- 💡 **Motto:** Belajar dan berkarya setiap hari.  
-- 🕹️ **Hobi:** Mengamati tren di media sosial dan mencari tantangan baru (mancing perkara).  
+- 📚 **Proyek Saat Ini:** Hayo apa.  
+- 💡 **Motto:** yang penting nafas.  
+- 🕹️ **Hobi:** Mancing.  
 
 ---
 
@@ -75,7 +75,7 @@ Mari terhubung dan berkolaborasi!
 ---
 
 <p align="center">
-  <i>Terakhir online: 24 Oktober 2025</i>  
+  <i>Terakhir online: 5 febuari 2025</i>  
 </p>
 
 <p align="center">
