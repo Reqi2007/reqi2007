@@ -75,11 +75,11 @@ Mari terhubung dan berkolaborasi!
 ---
 
 <p align="center">
-  <i>Terakhir online: 5 febuari 2025</i>  
+  <i>Terakhir online: 16 april 2026</i>  
 </p>
 
 <p align="center">
-  <i>Sedang mengerjakan Projekan dan laporan</i>  
+  <i>Sedang mengerjakan Tugas ujikom</i>  
 </p>
 
 <p align="center">
